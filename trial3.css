@@ -1,0 +1,31 @@
+
+a:hover {
+	text-decoration: none;
+	word-spacing: 5px;
+	color: brown;
+	font-family: 'Kavivanar', cursive;
+	font-size: 20px;
+
+}
+ul li {
+	display: inline;
+	padding-left:0px;
+	font-style: italic;
+}
+.wrap {
+	margin-left:300px;
+	margin-right: 300px;
+}
+img {
+	float:left;
+	width: 250px;
+	height:250px;
+	padding-top:100px;
+	margin-right: 10px;
+}
+footer {
+	float: right;
+}
+p {
+	font-family: 'Playfair Display', serif;
+}
